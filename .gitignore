@@ -4,4 +4,4 @@ venv
 notes.txt
 .env
 deploy_setup.sh
-staticfiles
+# staticfiles
